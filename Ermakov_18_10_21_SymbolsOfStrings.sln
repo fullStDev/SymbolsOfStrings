@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ermakov_18_10_21_SymbolsOfStrings", "Ermakov_18_10_21_SymbolsOfStrings\Ermakov_18_10_21_SymbolsOfStrings.csproj", "{E92BED22-8A94-4C7E-87D4-43A840EA0BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E92BED22-8A94-4C7E-87D4-43A840EA0BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92BED22-8A94-4C7E-87D4-43A840EA0BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92BED22-8A94-4C7E-87D4-43A840EA0BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92BED22-8A94-4C7E-87D4-43A840EA0BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB6A1C5F-280D-4507-97AC-C0B54034DBD6}
+	EndGlobalSection
+EndGlobal
